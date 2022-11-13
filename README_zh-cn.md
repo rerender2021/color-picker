@@ -4,6 +4,12 @@
 
 <h1 align="center">颜色选择器</h1>
 
+<div align="center">
+
+[![build](https://github.com/rerender2021/color-picker/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/rerender2021/color-picker/actions/workflows/build.yml) [![pack](https://github.com/rerender2021/color-picker/actions/workflows/pack.yml/badge.svg?branch=main&event=push)](https://github.com/rerender2021/color-picker/actions/workflows/pack.yml)
+
+</div>
+
 简体中文 | [English](./README.md)
 
 # 简介
