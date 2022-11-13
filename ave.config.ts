@@ -6,6 +6,8 @@ const config: IPackConfig = {
     target: "node14-win-x64",
     input: "./build/src/app.js",
     output: "./bin/color-picker.exe",
+    // debug: true,
+    edit: false
   },
   resource: {
     icon: "./assets/color-wheel.ico",
